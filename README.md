@@ -1,2 +1,2 @@
-# cobraAnalysis
-cobraAnalysis contains programs to analyze data from the COBRA recognition memory experiment
+# cobraPythonAnalysis
+cobraPythonAnalysis contains programs to analyze data from the COBRA recognition memory experiment
